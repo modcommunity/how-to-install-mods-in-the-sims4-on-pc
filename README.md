@@ -140,4 +140,4 @@ With an awesome community and endless customization, modding The Sims 4 can give
 * [Lumpinou Mod List](https://www.lumpinou.com/)
 * [Sims 4 Studio](https://sims4studio.com/)
 
-This guide is updated frequently. If you have suggestions or corrections, let us know!
+This guide is a *work-in-progress* and updated over time. If you have suggestions or corrections, let us know!
