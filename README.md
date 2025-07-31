@@ -1,12 +1,8 @@
-<div align="center"
-
-![banner|800x400](./images/banner.png)
-
-</div>
-
 A guide on how to **install mods** in **The Sims 4** on PC. Instructions on how to use mod managers such as [CurseForge's Mod Manager](https://www.curseforge.com/sims4/mods) are also included!
 
 This guide is focused on **Windows users**, but some concepts can be adapted for Linux with tools like Steam Proton or [Lutris](https://lutris.net/)!
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-the-sims-4/)
 
 The Sims 4 is highly moddable and offers thousands of mods for custom gameplay, CAS (Create-A-Sim), furniture, UI tweaks, and more. This guide will help you get started safely and efficiently!
 
